@@ -6,12 +6,12 @@ You can check out my website [at upvalue.io](https://upvalue.io).
 
 Currently I'm working on two projects:
 
-### [tekne](https://github.com/upvalue/tekne) 
+### [=> tekne](https://github.com/upvalue/tekne) 
 
 - a freestyle productivity app in the shape of an outline editor
 - [demo](https://demo.tekne.app)
 
-### [otium](https://github.com/upvalue/otium)
+### [=> otium](https://github.com/upvalue/otium)
 
 a dynamic programming environment inspired by smalltalk and lisp machines.
 
