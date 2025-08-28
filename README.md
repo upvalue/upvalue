@@ -16,5 +16,5 @@ Currently I'm working on two projects:
 a dynamic programming environment inspired by smalltalk and lisp machines.
 
 - [Most recent article: Trialing Rust and Zig with a Tcl interpreter](https://upvalue.io/posts/trialing-zig-and-rust-by-writing-a-tcl-interpreter)
-- [devlog]
+- [devlog](https://upvalue.io/posts/tag/otium)
 
