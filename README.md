@@ -14,6 +14,6 @@ Currently I'm working on two projects:
 
 ### [=> otium](https://github.com/upvalue/otium)
 
-a modern retro computer inspired by lisp machines, mechanical keyboards and just having fun. Just getting started.
+a little rp2350 retro computer and operating system
 
-- [devlog](https://upvalue.io/posts/tag/otium): [Most recent article: Trialing Rust and Zig with a Tcl interpreter](https://upvalue.io/posts/trialing-zig-and-rust-by-writing-a-tcl-interpreter)
+- [devlog](https://upvalue.io/posts/tag/otium): [Most recent article: Writing bare metal programs on the RP2350 with literate programming](https://upvalue.io/posts/literate-programming-the-rp2350/)
