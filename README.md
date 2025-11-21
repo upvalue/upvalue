@@ -18,5 +18,5 @@ a freestyle productivity app in the shape of an outline editor
 
 a little rp2350 retro computer and operating system
 
-- [devlog](https://upvalue.io/posts/tag/otium): [Most recent article: Writing bare metal programs on the RP2350 with literate programming](https://upvalue.io/posts/literate-programming-the-rp2350/)
+- [devlog](https://upvalue.io/posts/tag/otium): [Most recent article: Adding graphics to a simple operating system](https://upvalue.io/posts/adding-graphics-to-a-simple-operating-system/)
 - [repo](https://github.com/upvalue/otium)
