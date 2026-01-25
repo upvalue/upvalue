@@ -14,6 +14,6 @@ a freestyle productivity app in the shape of an outline editor
 - [devlog](https://upvalue.io/posts/tag/tekne): [Most recent article: Handling Markdown programmatically](https://upvalue.io/posts/handling-markdown-programmatically/)
 - [repo](https://github.com/upvalue/tekne)
 
-A few smaller projects:
+Some smaller projects:
 
 - [=> otium](https://otium.sh) A little microkernel operating system. [devlog](https://upvalue.io/posts/tag/otium) / [repo](https://github.com/upvalue/otium)
