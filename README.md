@@ -1,8 +1,4 @@
-🌊 Hi there! 
-
-I'm Phil, a software developer currently on sabbatical. 🤙
-
-I'm currently looking for work, so feel free to [reach out](https://upvalue.io/).
+🌊 Hi there, I'm Phil.
 
 You can check out my website [at upvalue.io](https://upvalue.io).
 
